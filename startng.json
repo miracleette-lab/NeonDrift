@@ -1,0 +1,8 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "distance", "label": "Distance", "order": "highest" },
+      { "key": "shards", "label": "Shards", "order": "highest" }
+    ]
+  }
+}
